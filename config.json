@@ -1,0 +1,6 @@
+{
+    "firebase_credential_path": "E:\\gp\\serviceAccountKey.json",
+    "network_interface": "Wi-Fi",
+    "capture_method": ["live", "file"],
+    "capture_file_path": "E:\\gp\\wireaharkfile.pcapng"
+}
